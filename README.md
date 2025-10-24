@@ -36,4 +36,4 @@ We're on the cusp of unveiling our most ambitious project yet—a development th
 * **A new paradigm** in **[Specific Area, e.g., Human-Robot Interaction]**.
 * **Unprecedented performance** powered by our latest **[Specific Tech, e.g., Proprietary AI Engine]**.
 * **A solution** that redefines **[Specific Benefit, e.g., Operational Efficiency]**.
-*Copyright (c) 2025. URACP*
+* **Copyright (c) 2025. URACP**
