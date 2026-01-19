@@ -1,6 +1,6 @@
 # **Universal Robotics and Artificial Intelligence Control Program: Innovating the Future of Intelligent Systems**
 
-Welcome to the official repository and information hub for **[Organization Name]**!
+Welcome to the official repository and information hub for **URACP**!
 
 We are a pioneering organization dedicated to the research, development, and deployment of cutting-edge solutions across **Robotics**, **Automation**, and **Artificial Intelligence**. Our mission is to build intelligent systems that enhance human capability, drive industrial efficiency, and solve the world's most complex challenges.
 
